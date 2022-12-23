@@ -1,6 +1,6 @@
 Something about me:
-- 🔭 I’m currently working on GraalVM at Oracle Labs
-- 🌱 I’m currently learning GraalVM and Micronaut in depth
+- 🔭 I’m currently working on Data Factory at EPAM Systems
+- 🌱 I’m currently learning Blockchain
 - 💬 Ask me about GraalVM and Java
 - 📫 How to reach me: https://www.linkedin.com/in/munishchouhan/
 
